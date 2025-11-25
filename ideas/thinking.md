@@ -6,3 +6,5 @@
 
 - Capture alternative approaches while exploring.
 
+- Separate ideas worth testing from those worth discarding.
+
