@@ -12,3 +12,5 @@
 
 - Record small insights to refine future approaches.
 
+- Keep problem statements simple before diving in.
+
