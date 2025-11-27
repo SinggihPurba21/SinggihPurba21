@@ -10,3 +10,5 @@
 
 - Summarize thinking clearly for future reference.
 
+- Record small insights to refine future approaches.
+
