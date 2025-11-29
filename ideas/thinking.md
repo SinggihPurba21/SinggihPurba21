@@ -14,3 +14,5 @@
 
 - Keep problem statements simple before diving in.
 
+- Revisit older notes to track how ideas evolve.
+
