@@ -16,3 +16,5 @@
 
 - Revisit older notes to track how ideas evolve.
 
+- Prefer practical experimentation over theory alone.
+
