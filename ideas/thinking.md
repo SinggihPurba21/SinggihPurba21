@@ -18,3 +18,5 @@
 
 - Prefer practical experimentation over theory alone.
 
+- Build solutions in tiny, iterative steps.
+
