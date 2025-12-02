@@ -20,3 +20,5 @@
 
 - Build solutions in tiny, iterative steps.
 
+- Challenge assumptions when progress slows.
+
