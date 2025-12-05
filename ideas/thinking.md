@@ -22,3 +22,5 @@
 
 - Challenge assumptions when progress slows.
 
+- Separate ideas worth testing from those worth discarding.
+
