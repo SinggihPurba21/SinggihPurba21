@@ -24,3 +24,5 @@
 
 - Separate ideas worth testing from those worth discarding.
 
+- Summarize thinking clearly for future reference.
+
