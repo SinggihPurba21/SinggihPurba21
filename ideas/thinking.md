@@ -26,3 +26,8 @@
 
 - Summarize thinking clearly for future reference.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
+Explore contributing to open-source projects in the `Go` ecosystem related to infrastructure or cloud-native development.
+
