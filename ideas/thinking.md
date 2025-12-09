@@ -31,3 +31,7 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 
 Explore contributing to open-source projects in the `Go` ecosystem related to infrastructure or cloud-native development.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+*   Explore adding automated testing (e.g., unit tests, integration tests) to ensure code quality and prevent regressions.
+
