@@ -35,3 +35,8 @@ Explore contributing to open-source projects in the `Go` ecosystem related to in
 *   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 *   Explore adding automated testing (e.g., unit tests, integration tests) to ensure code quality and prevent regressions.
 
+
+Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+
+Explore potential integrations with other popular development tools or platforms.
+
