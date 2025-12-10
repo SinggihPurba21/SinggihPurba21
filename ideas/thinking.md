@@ -40,3 +40,7 @@ Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 
 Explore potential integrations with other popular development tools or platforms.
 
+
+Consider adding a README file explaining the project's purpose and how to use it.
+Explore CI/CD pipelines for automated testing and deployment.
+
