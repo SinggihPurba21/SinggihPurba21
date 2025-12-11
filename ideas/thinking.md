@@ -44,3 +44,7 @@ Explore potential integrations with other popular development tools or platforms
 Consider adding a README file explaining the project's purpose and how to use it.
 Explore CI/CD pipelines for automated testing and deployment.
 
+
+Consider adding unit tests for critical functions to ensure code reliability.
+Explore creating a README.md with a clear explanation of the project's purpose and how to use it.
+
