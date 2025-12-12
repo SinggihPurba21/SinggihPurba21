@@ -48,3 +48,7 @@ Explore CI/CD pipelines for automated testing and deployment.
 Consider adding unit tests for critical functions to ensure code reliability.
 Explore creating a README.md with a clear explanation of the project's purpose and how to use it.
 
+
+1.  Consider adding a CONTRIBUTING.md file to outline how others can contribute.
+2.  Explore GitHub Actions for CI/CD or automated testing.
+
