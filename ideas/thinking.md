@@ -52,3 +52,8 @@ Explore creating a README.md with a clear explanation of the project's purpose a
 1.  Consider adding a CONTRIBUTING.md file to outline how others can contribute.
 2.  Explore GitHub Actions for CI/CD or automated testing.
 
+
+Consider adding a README.md file to provide a clear overview of the project, its purpose, and how to use it.
+
+Explore GitHub Actions for CI/CD automation, such as automated testing, building, and deployment.
+
