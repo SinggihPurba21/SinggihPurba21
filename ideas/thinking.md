@@ -57,3 +57,7 @@ Consider adding a README.md file to provide a clear overview of the project, its
 
 Explore GitHub Actions for CI/CD automation, such as automated testing, building, and deployment.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+*   Explore creating a simple CI/CD pipeline for automated testing and deployment.
+
