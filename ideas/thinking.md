@@ -61,3 +61,7 @@ Explore GitHub Actions for CI/CD automation, such as automated testing, building
 *   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 *   Explore creating a simple CI/CD pipeline for automated testing and deployment.
 
+
+- Consider adding automated testing (unit, integration, or end-to-end) to ensure code quality and stability.
+- Document the setup and installation process clearly for new contributors.
+
