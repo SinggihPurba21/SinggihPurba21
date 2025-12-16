@@ -65,3 +65,7 @@ Explore GitHub Actions for CI/CD automation, such as automated testing, building
 - Consider adding automated testing (unit, integration, or end-to-end) to ensure code quality and stability.
 - Document the setup and installation process clearly for new contributors.
 
+
+- Consider adding a README that details the purpose and usage of the repository.
+- Explore potential for CI/CD integration to automate testing and deployment.
+
