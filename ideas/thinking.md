@@ -73,3 +73,8 @@ Explore GitHub Actions for CI/CD automation, such as automated testing, building
 - Consider adding a README.md with a project description, setup instructions, and examples.
 - Implement a basic CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a README with project descriptions, setup instructions, and contribution guidelines.
+
+Explore a CI/CD pipeline for automated testing and deployment.
+
