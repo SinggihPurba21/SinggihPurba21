@@ -78,3 +78,7 @@ Consider adding a README with project descriptions, setup instructions, and cont
 
 Explore a CI/CD pipeline for automated testing and deployment.
 
+
+* **Documentation:** Consider adding a `README.md` file to explain the purpose of the repository, how to use the code, and any dependencies.
+* **Examples:** Include sample data or example usage scenarios to demonstrate the functionality of the code within the repository.
+
