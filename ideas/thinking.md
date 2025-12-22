@@ -90,3 +90,8 @@ Explore a CI/CD pipeline for automated testing and deployment.
 *   Consider adding a contribution guide (CONTRIBUTING.md) outlining how others can submit issues or pull requests.
 *   A README.md file with a project description, installation instructions, and usage examples would be beneficial.
 
+
+Consider adding example usage scripts to demonstrate common functionalities and integrations.
+
+Explore creating a CI/CD pipeline for automated testing and deployment.
+
