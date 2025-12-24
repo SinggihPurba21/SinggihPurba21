@@ -95,3 +95,8 @@ Consider adding example usage scripts to demonstrate common functionalities and 
 
 Explore creating a CI/CD pipeline for automated testing and deployment.
 
+
+Potential for adding a "Projects" section to showcase completed or in-progress work.
+
+Consider adding a brief "About Me" section to introduce yourself and your interests.
+
