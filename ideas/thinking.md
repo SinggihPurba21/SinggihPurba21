@@ -100,3 +100,7 @@ Potential for adding a "Projects" section to showcase completed or in-progress w
 
 Consider adding a brief "About Me" section to introduce yourself and your interests.
 
+
+*   **Example Usage:** Include a dedicated `examples/` directory showcasing how to use different features of the library, perhaps with sample data or common use cases.
+*   **Contribution Guidelines:** Clearly outline how others can contribute, including code style, testing requirements, and how to submit pull requests.
+
