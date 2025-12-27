@@ -113,3 +113,7 @@ Consider adding a brief "About Me" section to introduce yourself and your intere
 Consider adding a README.md with a clear project description, setup instructions, and examples.
 Explore using GitHub Actions for continuous integration and deployment.
 
+
+Consider adding a README.md to explain the purpose and usage of the repository.
+Explore using GitHub Actions for CI/CD to automate testing and deployment.
+
