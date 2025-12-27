@@ -109,3 +109,7 @@ Consider adding a brief "About Me" section to introduce yourself and your intere
 
 "Consider organizing files into logical directories (e.g., `src`, `tests`, `docs`) for better maintainability."
 
+
+Consider adding a README.md with a clear project description, setup instructions, and examples.
+Explore using GitHub Actions for continuous integration and deployment.
+
