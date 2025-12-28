@@ -117,3 +117,7 @@ Explore using GitHub Actions for continuous integration and deployment.
 Consider adding a README.md to explain the purpose and usage of the repository.
 Explore using GitHub Actions for CI/CD to automate testing and deployment.
 
+
+Consider adding a README.md explaining the project's purpose and how to run it.
+Explore adding unit tests to ensure code quality and stability.
+
