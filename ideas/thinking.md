@@ -121,3 +121,8 @@ Explore using GitHub Actions for CI/CD to automate testing and deployment.
 Consider adding a README.md explaining the project's purpose and how to run it.
 Explore adding unit tests to ensure code quality and stability.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
+Explore using GitHub Actions for common development workflows.
+
