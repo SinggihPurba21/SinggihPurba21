@@ -126,3 +126,8 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 
 Explore using GitHub Actions for common development workflows.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
+Explore contributing to open-source projects within the Java ecosystem.
+
