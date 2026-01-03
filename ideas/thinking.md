@@ -135,3 +135,7 @@ Explore contributing to open-source projects within the Java ecosystem.
 Consider adding unit tests for core logic.
 Explore adding CI/CD pipelines for automated builds and deployments.
 
+
+Consider adding CONTRIBUTING.md to outline contribution guidelines.
+Explore adding a README.md with a project overview and setup instructions.
+
