@@ -139,3 +139,8 @@ Explore adding CI/CD pipelines for automated builds and deployments.
 Consider adding CONTRIBUTING.md to outline contribution guidelines.
 Explore adding a README.md with a project overview and setup instructions.
 
+
+Consider adding a README.md explaining the project's purpose and setup.
+
+Explore CI/CD integration for automated testing and deployment.
+
