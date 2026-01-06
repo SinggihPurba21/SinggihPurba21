@@ -148,3 +148,7 @@ Explore CI/CD integration for automated testing and deployment.
 Consider adding a README.md file explaining the purpose and usage of the repositories.
 Explore adding unit tests to ensure the reliability and correctness of the code.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+*   Explore using GitHub Actions for automated testing and deployment.
+
