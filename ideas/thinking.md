@@ -157,3 +157,7 @@ Consider adding a README.md file to explain the purpose and usage of the reposit
 
 Explore integrating GitHub Actions for automated testing or deployment.
 
+
+Consider adding a contribution guide.
+Explore adding more comprehensive unit tests for core functionalities.
+
