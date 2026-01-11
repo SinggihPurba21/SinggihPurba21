@@ -161,3 +161,8 @@ Explore integrating GitHub Actions for automated testing or deployment.
 Consider adding a contribution guide.
 Explore adding more comprehensive unit tests for core functionalities.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
+Explore integrating a simple static site generator for documentation or personal blog content.
+
