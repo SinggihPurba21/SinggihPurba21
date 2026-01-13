@@ -166,3 +166,7 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 
 Explore integrating a simple static site generator for documentation or personal blog content.
 
+
+Implement a robust README.md with clear installation, usage, and contribution guidelines.
+Consider adding unit tests for core functionalities to ensure code stability.
+
