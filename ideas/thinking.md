@@ -170,3 +170,8 @@ Explore integrating a simple static site generator for documentation or personal
 Implement a robust README.md with clear installation, usage, and contribution guidelines.
 Consider adding unit tests for core functionalities to ensure code stability.
 
+
+Consider adding a "Contributing.md" file to guide potential contributors.
+
+Explore creating a dedicated `docs/` folder for comprehensive project documentation, including installation, usage, and API references.
+
