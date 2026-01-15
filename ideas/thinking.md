@@ -181,3 +181,8 @@ This repo appears to be a personal project showcase for Singgih Purba.
 *   Consider adding a `README.md` with a brief introduction, project descriptions, technologies used, and potentially a portfolio link.
 *   If this is for a specific skill demonstration, a focused section highlighting those skills would be beneficial.
 
+
+Consider adding a CONTRIBUTING.md file to outline guidelines for potential contributors.
+
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
