@@ -186,3 +186,7 @@ Consider adding a CONTRIBUTING.md file to outline guidelines for potential contr
 
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+- Consider adding a README.md file with a project description, setup instructions, and usage examples.
+- Explore CI/CD integration for automated testing and deployment.
+
