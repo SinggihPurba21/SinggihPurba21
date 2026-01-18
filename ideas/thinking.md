@@ -190,3 +190,8 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 - Consider adding a README.md file with a project description, setup instructions, and usage examples.
 - Explore CI/CD integration for automated testing and deployment.
 
+
+Consider adding a `README.md` file to explain the purpose and usage of the repositories.
+
+Explore creating a `.gitignore` file to prevent common unnecessary files from being tracked.
+
