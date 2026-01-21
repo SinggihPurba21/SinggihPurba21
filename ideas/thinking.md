@@ -195,3 +195,7 @@ Consider adding a `README.md` file to explain the purpose and usage of the repos
 
 Explore creating a `.gitignore` file to prevent common unnecessary files from being tracked.
 
+
+- Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+- Implement unit tests for core functionalities to ensure code stability.
+
