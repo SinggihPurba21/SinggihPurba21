@@ -199,3 +199,7 @@ Explore creating a `.gitignore` file to prevent common unnecessary files from be
 - Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 - Implement unit tests for core functionalities to ensure code stability.
 
+
+* Consider adding a CONTRIBUTING.md file to guide potential contributors.
+* Implement a README.md with clear instructions on how to set up and run the project.
+
