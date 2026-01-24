@@ -203,3 +203,7 @@ Explore creating a `.gitignore` file to prevent common unnecessary files from be
 * Consider adding a CONTRIBUTING.md file to guide potential contributors.
 * Implement a README.md with clear instructions on how to set up and run the project.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+*   Implement a `.gitignore` file to exclude common development artifacts.
+
