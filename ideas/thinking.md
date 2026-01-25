@@ -207,3 +207,7 @@ Explore creating a `.gitignore` file to prevent common unnecessary files from be
 *   Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 *   Implement a `.gitignore` file to exclude common development artifacts.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
+*   Explore GitHub Actions for CI/CD to automate testing and deployment.
+
