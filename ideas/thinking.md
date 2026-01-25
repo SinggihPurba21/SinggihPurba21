@@ -211,3 +211,8 @@ Explore creating a `.gitignore` file to prevent common unnecessary files from be
 *   Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
 *   Explore GitHub Actions for CI/CD to automate testing and deployment.
 
+
+Consider adding a `.gitattributes` file for consistent line endings across different operating systems.
+
+Implement semantic versioning for releases to clearly communicate changes and compatibility.
+
