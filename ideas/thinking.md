@@ -221,3 +221,7 @@ Ensure comprehensive README detailing project setup, dependencies, and contribut
 
 Consider adding a `.gitignore` file to exclude build artifacts and temporary files.
 
+
+*   **Focus on practical examples:** Include more diverse, runnable code snippets demonstrating various uses of the library/framework.
+*   **Consider a "getting started" guide:** A concise, step-by-step tutorial for new users would be highly beneficial.
+
